@@ -1,3 +1,3 @@
 # CodeAndPlay
 
-# 임창민 바보
+# 바보
